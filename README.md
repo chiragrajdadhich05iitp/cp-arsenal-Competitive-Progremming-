@@ -1,5 +1,3 @@
-Yeh le bhai ekdum top-notch, aesthetic badges, clean headers aur stylish layout ke saath khatarnak `README.md` content. Isko apni `README.md` file mein replace kar de:
-
 ```markdown
 <div align="center">
 
