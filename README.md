@@ -68,11 +68,3 @@ bash cp.sh
 Distributed under the **MIT License**.
 
 ---
-
-### Kaise fix karna hai:
-
-1. Browser mein README ke upar bane **Pencil icon (Edit this file)** par click karo.
-
-
-2. Purana text select all karke delete karo aur upar wala text paste kar do.
-3. Neeche jaakar green **Commit changes...** button par click kar do. Turant badhiya UI ban jayegi!
