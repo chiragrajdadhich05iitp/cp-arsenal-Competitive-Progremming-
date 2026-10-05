@@ -9,7 +9,7 @@ An ultra-fast, robust, and contest-ready repository packed with pre-written algo
 
 ## 🌟 Overview
 
-**CP Arsenal** live coding contests (Codeforces, AtCoder, LeetCode, CodeChef, ICPC) ke time fast execution ke liye banaya gaya hai. Iska focus low-latency performance, edge-case resilience aur clean modular setup par hai.
+**CP Arsenal** is engineered for rapid implementation during live competitive programming contests (Codeforces, AtCoder, LeetCode, CodeChef, and ICPC). It centers on low-latency execution, edge-case resilience, and a clean, modular architecture.
 
 ---
 
