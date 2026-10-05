@@ -1,35 +1,24 @@
-```markdown
-<div align="center">
 
-  <h1>⚡ CP ARSENAL ⚡</h1>
-  <h3>Battle-Tested Algorithmic Vault & Competitive Programming Suite</h3>
+# ⚡ CP ARSENAL ⚡
 
-  <p>
-    <img src="https://img.shields.io/badge/Language-C%2B%2B17%20%2F%2020-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Platform-Codeforces%20%7C%20LeetCode%20%7C%20ICPC-FF8C00?style=for-the-badge" alt="Platforms" />
-    <img src="https://img.shields.io/badge/Maintenance-Active-brightgreen?style=for-the-badge" alt="Maintenance" />
-  </p>
+### Battle-Tested Algorithmic Vault & Competitive Programming Suite
 
-  <p align="center">
-    An ultra-fast, robust, and contest-ready repository packed with pre-written algorithms, data structure boilerplates, rapid I/O modules, and automated stress testing scripts.
-  </p>
-
-</div>
+An ultra-fast, robust, and contest-ready repository packed with pre-written algorithms, data structure boilerplates, rapid I/O modules, and automated stress testing scripts.
 
 ---
 
 ## 🌟 Overview
 
-**CP Arsenal** live coding contests (Codeforces, AtCoder, LeetCode, CodeChef aur ICPC) ke time lightning-fast implementation ke liye build kiya gaya hai. Isme focus ultra-low constant factor overhead, edge-case resilience aur clean modular architecture par hai.
+**CP Arsenal** live coding contests (Codeforces, AtCoder, LeetCode, CodeChef, ICPC) ke time fast execution ke liye banaya gaya hai. Iska focus low-latency performance, edge-case resilience aur clean modular setup par hai.
 
 ---
 
 ## 🚀 Key Highlights
 
-* ⚡ **Zero-Latency Fast I/O:** Custom fast input/output buffers jo high I/O constraints mein TLE se bachate hain.
+* ⚡ **Zero-Latency Fast I/O:** High I/O constraints mein TLE se bachane ke liye optimized input/output templates.
 * 🧩 **Contest-Ready Modules:** Plug-and-play modular snippets jo minimal keystrokes ke saath contest ke dauran draft ho jaate hain.
-* 🧪 **Differential Stress-Testing Engine:** Built-in shell routines brute-force aur optimized logic ko randomize testcases par cross-verify karte hain.
-* 🎯 **Strict Verification:** Hardened algorithms jo modern competitive programming ke corner cases ke against pre-tested hain.
+* 🧪 **Differential Stress-Testing Engine:** Built-in shell routines brute-force aur optimized logic ko randomized testcases par verify karte hain.
+* 🎯 **Strict Verification:** Complex algorithms pre-tested hain modern competitive programming ke standard edge cases ke against.
 
 ---
 
@@ -53,8 +42,6 @@
 
 ### 🔧 High-Performance Compilation
 
-Strict warning flags aur modern standard standardizations ke saath compile karne ke liye:
-
 ```bash
 g++ -O3 -std=c++17 -Wall -Wextra -Wshadow -DLOCAL main.cpp -o main
 ./main
@@ -62,8 +49,6 @@ g++ -O3 -std=c++17 -Wall -Wextra -Wshadow -DLOCAL main.cpp -o main
 ```
 
 ### 🧪 Automated Stress Testing
-
-Edge-case hunting ke liye random test generator aur brute-force solver ke saath differential test run karo:
 
 ```bash
 bash cp.sh
@@ -74,24 +59,20 @@ bash cp.sh
 
 ## 👨‍💻 Maintainer
 
+**Chirag Raj Dadhich**
+
 ---
 
 ## 📜 License
 
-Distributed under the **MIT License**. Free to fork, adapt, and use in your competitive journey!
-
-```
+Distributed under the **MIT License**.
 
 ---
 
-### Update karke push karne ka tarika:
-1. VS Code mein `README.md` file kholo aur pura purana text hata kar yeh naya content paste kar do.
-2. Terminal mein simple yeh 3 commands chala do:
-   ```powershell
-   git add README.md
-   git commit -m "style: elevate readme with badges and clean structure"
-   git push
+### Kaise fix karna hai:
 
-```
+1. Browser mein README ke upar bane **Pencil icon (Edit this file)** par click karo.
 
-GitHub refresh karke dekhna, bilkul professional aur badhiya dikhega!
+
+2. Purana text select all karke delete karo aur upar wala text paste kar do.
+3. Neeche jaakar green **Commit changes...** button par click kar do. Turant badhiya UI ban jayegi!
