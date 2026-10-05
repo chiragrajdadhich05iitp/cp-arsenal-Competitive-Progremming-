@@ -1,5 +1,3 @@
-Here is a sleek, high-impact `README.md` tailored specifically for your repository:
-
 ```markdown
 # ⚡ CP Arsenal | Competitive Programming & Algo Vault
 
